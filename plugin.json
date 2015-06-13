@@ -1,0 +1,27 @@
+{
+    "label": {
+        "de": "DsnDisableBackButton",
+        "en": "DsnDisableBackButton"
+    },
+    "copyright": "Daniel Nögel",
+    "license": "proprietary",
+    "author": "Daniel Nögel",
+
+    "currentVersion": "1.0.0",
+
+    "changelog": {
+        "de": {
+            "1.0.0": "Erstveröffentlichung"
+        },
+        "en": {
+            "1.0.0": "First release"
+        }
+    },
+
+    "compatibility": {
+        "minimumVersion": "4.3.0",
+        "maximumVersion": null,
+        "blacklist": [
+        ]
+    }
+}
